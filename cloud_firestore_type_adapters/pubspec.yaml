@@ -5,13 +5,13 @@ author: alex@tekartik.com
 publish_to: none
 
 environment:
-  sdk: '>=2.12.0-0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter: 
     sdk: flutter
   sembast: ^3.7.1+2
-  cloud_firestore_platform_interface: ^6.2.8
+  cloud_firestore_platform_interface: ^7.0.4
 
 dev_dependencies:
   dev_test:
